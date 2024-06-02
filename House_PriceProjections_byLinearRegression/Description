@@ -1,0 +1,2 @@
+This project basically gives a look into linear regression working and helps to print projected prices of properties for a given data.
+The dataset used is inbuilt scikit-learn dataset of californian households.
