@@ -1,0 +1,1 @@
+This project uses inbuilt library to put forward the model to detect faces howering infront of the camera.
