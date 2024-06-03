@@ -163,7 +163,7 @@ def test_on_img(img):
     x_test=np.array(data)
     y_pred = np.argmax(model.predict(x_test), axis=-1)
     return image,y_pred
-plot,prediction = test_on_img(r'C:\Users\GAURAV\Desktop\Trafic sign Project\Test\00062.png')
+plot,prediction = test_on_img(r'PutYourOwnImage')
 s = [str(i) for i in prediction] 
 a = int("".join(s)) 
 print("Predicted traffic sign is: ", classes[a])
