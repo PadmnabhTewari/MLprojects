@@ -1,0 +1,1 @@
+The code uses online dataset "Movie-Lens" which takes use of user ratings and movie ratings to make the model predict 10 movies to user.
