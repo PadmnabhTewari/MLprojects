@@ -1,0 +1,2 @@
+The model works on SVM and gives the number we are trying to figure out from the image we have given.
+The dataset is the inbuilt dataset used from the open_ml library.
